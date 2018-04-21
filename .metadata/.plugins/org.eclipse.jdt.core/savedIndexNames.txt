@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+D:\zmx\EclipseDev\XtextDev\ws\.metadata\.plugins\org.eclipse.jdt.core
+2869536619.index
+1245377936.index
+2244771789.index
+696876726.index
+318768852.index
+781049944.index
+3185222058.index
+309090870.index
+30017432.index
+3851348714.index
+1052117021.index

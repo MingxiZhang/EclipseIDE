@@ -1,0 +1,12 @@
+[2018-04-21 16:47:59] Executing startup tasks
+[2018-04-21 16:47:59] Java(TM) SE Runtime Environment 1.8.0_111-b14
+[2018-04-21 16:47:59] Product self.product.version
+[2018-04-21 16:47:59] Workspace D:\zmx\EclipseDev\XtextDev\runtime-EclipseXtext
+[2018-04-21 16:47:59] Bundle org.eclipse.oomph.setup 1.9.0.v20180203-0645, build=20180313-121447, branch=d7599fdc009513885f82570d61f0171d42b7ebe5
+[2018-04-21 16:47:59] Bundle org.eclipse.oomph.setup.core 1.9.0.v20180310-0545, build=20180313-121447, branch=d7599fdc009513885f82570d61f0171d42b7ebe5
+[2018-04-21 16:47:59] Bundle org.eclipse.oomph.setup.p2 1.9.0.v20171221-1140, build=3349, branch=784f5d357a2e957a152af9e761ca3d2339b91829
+[2018-04-21 16:47:59] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.5.0
+[2018-04-21 16:47:59] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.5.0
+[2018-04-21 16:47:59] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.5.0/location = C:\Program Files\apache-maven-3.5.0
+[2018-04-21 16:47:59] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.5.0/type = EXTERNAL
+[2018-04-21 16:48:00] 
